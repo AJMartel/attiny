@@ -1,3 +1,6 @@
+http://www.forkrobotics.com/2012/05/relay-control-over-i2c/
+
+
 ATtiny
 =======
 
